@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LPI-Atividade-N2-2 {
+public class Main {
     public static void main (String[] args) {
         Scanner sc = new Scanner (System.in);
 
