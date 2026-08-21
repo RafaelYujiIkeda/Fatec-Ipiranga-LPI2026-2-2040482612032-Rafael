@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LPI-Atividade-N2-3 {
+public class Main {
     public static final int codigoCorreto = 1234;
     public static void main (String[] args) {
         Scanner sc = new Scanner (System.in);
